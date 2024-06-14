@@ -64,6 +64,6 @@ Some potential areas for future improvements include:
 - Experimenting with ensemble methods or other advanced machine learning algorithms.
 - Deploying the model as a web application or API for easy access and usage.
 
-##Acknowledgement
+## Acknowledgement
 
 All of this was done from scratch. Thank you for Annie Wernerfelt and Silvani Amin for their help in the project. Data science and machine learning skills was taught by Dr. Ryan Marcus and Jacob Gardener.
